@@ -1,5 +1,7 @@
 # Scraping-Yoga-and-Nutrition-Related-Articles-using-Python
 
+Check out the jupyter notebook here https://jovian.com/patel-shubha/scraping-yoga-and-nutrition-related-articles-using-python
+
 Yoga is an ancient practice that involves physical poses, concentration, and deep breathing. Yoga nutrition aims at cleansing, strengthening, and developing all levels of our human existence. Keeping that in mind, in the current web scrapping project, I would like to gather the data on Yoga and Nutrition from Google search results.
 We search for a lot of things in the internet. These information are readily available but cannot be saved easily so we can use it later for any other purposes. One way is to copy the data manually and save it in your desktop. However, this is a very time consuming job. Web scraping is handy in such cases.
 
